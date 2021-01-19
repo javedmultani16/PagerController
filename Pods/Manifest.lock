@@ -1,0 +1,16 @@
+PODS:
+  - Pager (1.4.0)
+
+DEPENDENCIES:
+  - Pager
+
+SPEC REPOS:
+  trunk:
+    - Pager
+
+SPEC CHECKSUMS:
+  Pager: c62090c63f0eae2642454a572e659a08347c599d
+
+PODFILE CHECKSUM: be89ea37a1be27659d3f901246bfb3a82a2af4db
+
+COCOAPODS: 1.10.0
